@@ -1,0 +1,17 @@
+/*----- body ------*/
+body{
+  background: url("451.jpg") center top no-repeat;
+  height: 90%;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+  -webkit-filter: blur(10px);
+  -moz-filter: blur(10px);
+  -o-filter: blur(10px);
+  -ms-filter: blur(10px);
+  filter: blur(10px);
+}
+/*----- header ------*/
+.page-header{
+  color: #e23822;
+}
